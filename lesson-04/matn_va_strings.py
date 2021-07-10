@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 22 12:52:00 2021
-
-@author: root
-"""
 
 # --------------- STRING USTIDA AMALLAR ------------------
 # ism = "Abduxalim"

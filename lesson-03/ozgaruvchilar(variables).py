@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 22 11:08:18 2021
-
-@author: root
-"""
 
 # ----------------- O'zgaruvchilar (Variables)-----------------
 

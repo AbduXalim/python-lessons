@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 22 10:16:39 2021
 
-@author: root
-"""
-
-# sana 22/06/2021
 # console tozalash uchun ctrl+l yoki clear deb yozamiz
 
 # ------------------- Sintaksis yozish-----------------
